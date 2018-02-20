@@ -5,3 +5,4 @@ import IO
 main
 
 ok,add
+new
